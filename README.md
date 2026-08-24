@@ -1,9 +1,3 @@
-Oui, dans ce cas je te conseille clairement **un seul `README.md` à la racine**. C'est beaucoup plus propre pour un dépôt GitHub destiné à être consulté par un professeur : il ouvre le dépôt et comprend immédiatement **le contexte, les deux exercices, l'installation, l'exécution et les résultats attendus**, sans devoir naviguer dans deux README différents.
-
-J'ai aussi corrigé quelques formulations techniques, notamment autour de HMAC : `hmac` est un module Python séparé de `hashlib`, et SHA-3 est présenté comme une famille distincte de SHA-2, même si les deux sont des fonctions de hachage cryptographiques.
-
-Voici une version plus "projet universitaire sérieux + GitHub wow" :
-
 # 🔐 Devoir Note 2 — HMAC, SHA-256 & SHA-3
 
 > **Sécurité, authentification et comparaison des fonctions de hachage cryptographiques**
