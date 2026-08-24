@@ -32,3 +32,19 @@ Thumbs.db
 # Fichiers de sauvegarde
 *.bak
 *.old
+
+# Environnement virtuel
+venv/
+
+# Fichiers générés par les exercices
+echantillons_hmac/
+echantillons_sha/
+
+# Python
+__pycache__/
+*.pyc
+
+# Résultats / visualisations
+*.png
+*.pdf
+*.svg
