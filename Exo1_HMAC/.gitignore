@@ -1,0 +1,34 @@
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dossiers de données générés
+echantillons/
+*.log
+*.tmp
+
+# Fichiers de configuration d'éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Sorties de matplotlib
+*.png
+*.pdf
+*.svg
+
+# Fichiers de sauvegarde
+*.bak
+*.old
